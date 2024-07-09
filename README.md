@@ -3,6 +3,3 @@
  ID = CS11WX271730
  Domain = PYTHON PROGRAMMING
  Duration = 10 june 2024 to 10 july 2024
-
- OUTPUT :
- 
