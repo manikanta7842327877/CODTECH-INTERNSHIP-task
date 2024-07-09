@@ -1,5 +1,8 @@
  Name = VADUGU RAJA MANIKANTA
  Company = CODTECH IT SOLUTIONS
+ ID = CS11WX271730
  Domain = PYTHON PROGRAMMING
- Duration = june 10 to july 10 2024
- Mentor = 
+ Duration = 10 june 2024 to 10 july 2024
+
+ OUTPUT :
+ 
